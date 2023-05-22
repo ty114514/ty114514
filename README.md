@@ -4,6 +4,8 @@
 
 ![herta](herta.gif)
 
+夕雾
+
 24岁，事学生，喜欢喝冰红茶，手机上装有《原神》《崩坏：星穹铁道》，事op事穹轨()
 
 也许对你有用的：
@@ -25,7 +27,7 @@
 
 |联想小新 Air14 2020 1035G1 MX350|红米 Pro14 2022 6800H|树莓派 3B|VisionFive 2 4G 双千兆|
 |---|---|---|---|
-|一加 8T|红米 Note12Turbo|荣耀 9X|iPhone SE2020 64G||
+|一加 8T|红米 Note12Turbo|荣耀 9X|iPhone SE2020 64G|
 <!--
 **ty114514/ty114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
