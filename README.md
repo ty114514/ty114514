@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+转圈圈！
+
+![herta](herta.gif)
+
+24岁，事学生，喜欢喝冰红茶，手机上装有《原神》《崩坏：星穹铁道》，事op事穹轨()
+
+也许对你有用的：
+
++ 我整理的：
++ [我对各种开源软件进行了分类收藏](https://github.com/ty114514?tab=stars)
++ 我认为比较值得看的：
++ [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
++ [中文写作排版风格指南](https://github.com/RightCapitalHQ/chinese-style-guide)
+
+联系：
+
+|Mail|[nekomain@outlook.com](mailto:nekomain@outlook.com)|
+|---|---|
+|Web|[imjoy.net](imjoy.net)|
+|QQ|3518753688|
+
+设备：
+
+|联想小新 Air14 2020 1035G1 MX350|红米 Pro14 2022 6800H|树莓派 3B|VisionFive 2 4G 双千兆|
+|---|---|---|---|
+|一加 8T|红米 Note12Turbo|荣耀 9X|iPhone SE2020 64G||
 <!--
 **ty114514/ty114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
