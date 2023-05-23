@@ -20,7 +20,7 @@
 
 |Mail|[nekomain@outlook.com](mailto:nekomain@outlook.com)|
 |---|---|
-|Web|[imjoy.net](imjoy.net)|
+|Web|[imjoy.net](https://imjoy.net)|
 |QQ|3518753688|
 
 设备：
