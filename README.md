@@ -21,7 +21,7 @@
 
 联系：
 
-|Mail|[nekomain@outlook.com](mailto:nekomain@outlook.com)|
+|Mail|nekomain哼outlook哼com|
 |---|---|
 |Web|[imjoy.net](https://imjoy.net)|
 |QQ|3518753688|
